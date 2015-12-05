@@ -1,4 +1,9 @@
 {
-   "profileType": "project",
-   "name": "rainmaker/default"
+  "type": "project",
+  "name": "rainmaker/default-project",
+  "profiles": [
+    {
+      "version": "1.0"
+    }
+  ]
 }
