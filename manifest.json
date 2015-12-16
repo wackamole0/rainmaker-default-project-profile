@@ -1,6 +1,7 @@
 {
   "type": "project",
   "name": "rainmaker/default-project",
+  "downloadBaseUrl": "http://image.rainmaker-dev.org",
   "profiles": [
     {
       "version": "1.0"
